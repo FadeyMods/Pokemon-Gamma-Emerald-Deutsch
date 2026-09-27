@@ -1,0 +1,35 @@
+name: Fehlerbericht
+description: Melde einen Übersetzungsfehler oder ein Darstellungsproblem.
+title: "[Fehler] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke, dass du dabei hilfst, die deutsche Übersetzung zu verbessern!
+  - type: input
+    id: location
+    attributes:
+      label: Stelle im Spiel
+      description: Wo ist der Fehler aufgetreten?
+      placeholder: Zum Beispiel Route, Kampf, Menü oder Gespräch
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Beschreibung
+      description: Was ist falsch oder sollte verbessert werden?
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Ziehe hier wenn möglich einen Screenshot hinein.
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Bestätigung
+      options:
+        - label: Ich habe geprüft, ob dieser Fehler bereits gemeldet wurde.
+          required: true
