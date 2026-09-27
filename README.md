@@ -32,8 +32,8 @@ Bitte melde hier möglichst nur Fehler, die direkt mit der deutschen Übersetzun
 
 ## Hinweis
 
-Dies ist eine inoffizielle, kostenlose Fan-Übersetzung und steht in keiner Verbindung zu Nintendo, Game Freak, Creatures Inc. oder The Pokémon Company. Pokémon und alle zugehörigen Namen, Figuren und Marken sind Eigentum ihrer jeweiligen Rechteinhaber.
+Dies ist eine inoffizielle, kostenlose Fan-Übersetzung. Sie steht in keiner Verbindung zu Nintendo, Game Freak, Creatures Inc. oder The Pokémon Company. Pokémon sowie alle zugehörigen Namen, Figuren und Marken gehören ihren jeweiligen Rechteinhabern.
 
-Die deutsche Fassung basiert auf der von UndreamedPanic entwickelten Originalversion von Pokémon Gamma Emerald. Weitere Informationen zum ursprünglichen Spiel findet ihr auf seiner [offiziellen Projektseite](https://undreamedpanic.itch.io/gamma-emerald-ea).
+Die deutsche Fassung basiert auf Pokémon Gamma Emerald von UndreamedPanic. Weitere Informationen findet ihr auf seiner [offiziellen Projektseite](https://undreamedpanic.itch.io/gamma-emerald-ea).
 
-Diese Übersetzung ist als Ergänzung für die deutschsprachige Community gedacht und respektiert die Arbeit sowie die Rechte aller Beteiligten.
+Diese Übersetzung wurde für die deutschsprachige Community erstellt. Sie respektiert die Arbeit und Rechte aller Beteiligten.
