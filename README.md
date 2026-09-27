@@ -22,7 +22,7 @@ Wir freuen uns über jeden Hinweis und jeden Fehlerbericht. Bitte beschreibe mö
 - welcher Text oder welche Anzeige betroffen ist,
 - und füge wenn möglich einen Screenshot hinzu.
 
-Bitte melde hier möglichst nur Fehler, die direkt mit der deutschen Übersetzung zusammenhängen. Allgemeine Spielfehler betreffen die Originalversion und liegen bei UndreamedPanic. Bitte habt Verständnis dafür, dass er nicht mit wiederholten oder unnötigen Meldungen überhäuft werden sollte.
+Bitte melde hier möglichst nur Fehler, die direkt mit der deutschen Übersetzung zusammenhängen. Allgemeine Spielfehler betreffen die Originalversion und liegen außerhalb dieses Übersetzungsprojekts. Da Gamma Emerald von UndreamedPanic allein entwickelt wird, bitten wir darum, bekannte Probleme nicht mehrfach zu melden und respektvoll mit seiner Zeit umzugehen.
 
 [**Fehler melden →**](https://github.com/FadeyMods/Pokemon-Gamma-Emerald-Deutsch/issues/new/choose)
 
@@ -34,4 +34,6 @@ Bitte melde hier möglichst nur Fehler, die direkt mit der deutschen Übersetzun
 
 Dies ist eine inoffizielle, kostenlose Fan-Übersetzung und steht in keiner Verbindung zu Nintendo, Game Freak, Creatures Inc. oder The Pokémon Company. Pokémon und alle zugehörigen Namen, Figuren und Marken sind Eigentum ihrer jeweiligen Rechteinhaber.
 
-Die deutsche Fassung basiert auf der von [UndreamedPanic entwickelten Originalversion von Pokémon Gamma Emerald](https://undreamedpanic.itch.io/gamma-emerald-ea).
+Die deutsche Fassung basiert auf der von UndreamedPanic entwickelten Originalversion von Pokémon Gamma Emerald. Weitere Informationen zum ursprünglichen Spiel findet ihr auf seiner [offiziellen Projektseite](https://undreamedpanic.itch.io/gamma-emerald-ea).
+
+Diese Übersetzung ist als Ergänzung für die deutschsprachige Community gedacht und respektiert die Arbeit sowie die Rechte aller Beteiligten.
